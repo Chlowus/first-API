@@ -1,5 +1,12 @@
 {
-    "aboutMe": "My name is Chloe Smith and I am a student at Life Choices.",
+    "aboutMe": [
+        "Hello! I'm Chloe Smith, an enthusiastic aspiring web developer diving headfirst into the exciting realm of web development. Ever since I wrote my first line of code, I've been captivated by the endless possibilities the digital world offers. My journey began with a comprehensive course covering HTML and CSS, and I'm eagerly anticipating delving into JavaScript and MySQL in the near future.",
+        "My fascination with web development stems from its unique blend of creativity and problem-solving. Each project presents an opportunity to push boundaries, refine my skills, and turn ideas into immersive digital experiences. While I'm still early in my journey, I've already gained proficiency in HTML for content structuring and CSS for styling and layout. I'm excited about the prospect of diving into JavaScript and MySQL to further expand my skill set and understanding of web development.",
+        "Beyond coding, I'm constantly exploring new technologies, staying updated with industry trends, and drawing inspiration from design and art. I believe in the power of continuous learning to stay ahead in this dynamic field and to make a meaningful impact. My mission is to leverage my skills and passion for web development to contribute to innovative projects and create engaging digital solutions that leave a lasting impression.",
+        "Thank you for visiting my portfolio! I'm excited about the prospect of collaborating on exciting projects, sharing insights, and connecting with fellow enthusiasts. Let's work together to create something extraordinary and make a difference in the digital landscape.",
+        "(～￣▽￣)～"
+
+],
     "projects": [
         {
             "name":"Calculator",
