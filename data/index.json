@@ -64,20 +64,6 @@
             ]
         },
         {
-            "description":"At Wynberg Girls' High School, I received a comprehensive education in a supportive and empowering environment. Founded in 1886, Wynberg Girls' High School is one of the oldest all-girls schools in South Africa, situated in Wynberg, Cape Town. Throughout my time there, I benefited from a rich academic curriculum, dedicated teachers, and a vibrant school community. Wynberg Girls' High School provided me with a solid foundation for academic achievement and personal growth, preparing me for success in my future endeavors.",
-            "year": "2018 - 2022",
-            "institution": "Wynberg Girls' High School",
-            "contact":[
-            {
-                "name":"Stephanie Pienaar",
-                "contactDetails":"0724424327"
-            }
-            ]
-        }
-    ],
-    "skills":[],
-    "workExperience": [
-        {
             "description":"At The Events Place, I honed my skills as an event planner with a focus on alleviating the stress and frustrations often associated with planning significant occasions. Drawing from personal experiences, including my own wedding day, I understand the importance of having a supportive team and expert guidance throughout the planning process. My firsthand knowledge of the challenges faced by clients allows me to offer invaluable assistance in selecting service providers, managing family dynamics, and ensuring a seamless event experience. With years of experience in the events industry, I am dedicated to helping clients avoid common pitfalls and execute flawless weddings and corporate events.",
             "year": "May 2023 - March 2024",
             "placeOfWork": "The Events Place",
@@ -109,6 +95,17 @@
                 "name":"Candice November",
                 "contactDetails":"0785187706",
                 "position":"colleague"
+            }
+            ]
+        },
+        {
+            "description":"At Wynberg Girls' High School, I received a comprehensive education in a supportive and empowering environment. Founded in 1886, Wynberg Girls' High School is one of the oldest all-girls schools in South Africa, situated in Wynberg, Cape Town. Throughout my time there, I benefited from a rich academic curriculum, dedicated teachers, and a vibrant school community. Wynberg Girls' High School provided me with a solid foundation for academic achievement and personal growth, preparing me for success in my future endeavors.",
+            "year": "2018 - 2022",
+            "institution": "Wynberg Girls' High School",
+            "contact":[
+            {
+                "name":"Stephanie Pienaar",
+                "contactDetails":"0724424327"
             }
             ]
         }
