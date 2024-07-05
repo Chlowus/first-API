@@ -116,37 +116,43 @@
             "id": 1,
             "name":"Akhona Mjikelo",
             "position": "colleague",
-            "message": "I've worked closely with Chloe and can vouch for her exceptional work ethic and dedication. She's committed, enthusiastic, and approaches projects with creativity and innovation. Her eagerness to learn and expand her skill set is genuine. Chloe consistently exceeds expectations, adapting and learning quickly. Her positive and vibrant personality also uplifts any team environment."
+            "message": "I've worked closely with Chloe and can vouch for her exceptional work ethic and dedication. She's committed, enthusiastic, and approaches projects with creativity and innovation. Her eagerness to learn and expand her skill set is genuine. Chloe consistently exceeds expectations, adapting and learning quickly. Her positive and vibrant personality also uplifts any team environment.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/akhona.png"
         },
         {
             "id": 2,
             "name":"Elvin Harris",
             "position": "colleague",
-            "message": "Chloe is very smart, determined, and endlessly creative. She tackles life's puzzles with ease, fueled by her sharp mind. When faced with challenges, she doesn't back down but stands tall, a model of determination. And her creativity? It's like a superpower, adding color and flair to everything she does. To know Chloe is to be enriched by her intelligence, emboldened by her determination, and inspired by her creativity."
+            "message": "Chloe is very smart, determined, and endlessly creative. She tackles life's puzzles with ease, fueled by her sharp mind. When faced with challenges, she doesn't back down but stands tall, a model of determination. And her creativity? It's like a superpower, adding color and flair to everything she does. To know Chloe is to be enriched by her intelligence, emboldened by her determination, and inspired by her creativity.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/Elvin.png"
         },
         {
             "id": 3,
             "name":"Marcus Adonis",
             "position": "colleague",
-            "message": "Hard working and always has fresh and out of the box ideas. A friendly and funny person to be around. Works well with a team and aims to produce quality work."
+            "message": "Hard working and always has fresh and out of the box ideas. A friendly and funny person to be around. Works well with a team and aims to produce quality work.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/Marcus.png"
         },
         {
             "id": 4,
             "name":"Matthew Brown",
             "position": "lecturer",
-            "message": "Chloe is a dedicated and enthusiastic learner who consistently demonstrates strong work ethic and commitment to understanding concepts thoroughly. Her collaborative nature and willingness to assist peers make her a valuable asset in any academic setting."
+            "message": "Chloe is a dedicated and enthusiastic learner who consistently demonstrates strong work ethic and commitment to understanding concepts thoroughly. Her collaborative nature and willingness to assist peers make her a valuable asset in any academic setting.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/matthew-d.png"
         },
         {
             "id": 5,
             "name":"Mohammad Mohamed",
             "position": "colleague",
-            "message": "Chloe Smith is the epitome of an outstanding leader and web developer. Her exceptional skills in web development are complemented by her natural leadership abilities. Chloe's kindness fosters a supportive work environment, while her intelligence guides teams towards innovative solutions and success. With her talent, kindness, and intellect, Chloe is an invaluable asset to any team."
+            "message": "Chloe Smith is the epitome of an outstanding leader and web developer. Her exceptional skills in web development are complemented by her natural leadership abilities. Chloe's kindness fosters a supportive work environment, while her intelligence guides teams towards innovative solutions and success. With her talent, kindness, and intellect, Chloe is an invaluable asset to any team.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/Mo.png"
         },
         {
             "id": 6,
             "name":"Tyra Parring",
             "position": "colleague",
-            "message": "Since meeting Chloe, she has made a big impact on me as both a colleague and a friend. She is a vibrant and determined individual that puts her all into the work she does. I had the pleasure of working with Chloe and while collaborating with her I got to experience her great leadership and communicaton qualities. I know that any workplace would be lucky to have Chloe on their team."
+            "message": "Since meeting Chloe, she has made a big impact on me as both a colleague and a friend. She is a vibrant and determined individual that puts her all into the work she does. I had the pleasure of working with Chloe and while collaborating with her I got to experience her great leadership and communicaton qualities. I know that any workplace would be lucky to have Chloe on their team.",
+            "image":"https://chlowus.github.io/Images---Bootstrap-Project/tyra.png"
         }
     ]
 }
