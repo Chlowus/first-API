@@ -13,42 +13,42 @@
             "github": "https://github.com/Chlowus/calculator",
             "vercel": "https://calculator-one-snowy.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/Calculator-image.png"
         },
         {
             "name":"BMI Calculator",
             "github": "https://github.com/Chlowus/BMI-Calculator",
             "vercel": "https://bmi-calculator-one-mauve.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/BMI-calc-image.png"
         },
         {
-            "name":"Ecommerce",
+            "name":"E-commerce",
             "github": "https://github.com/Chlowus/EOM-Project-Ecommerce",
             "vercel": "https://eom-project-ecommerce.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/ecom-image.png"
         },
         {
             "name":"Hulu",
             "github": "https://github.com/Chlowus/Hulu",
             "vercel": "https://hulu-eta.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/hulu-image.png"
         },
         {
-            "name":"Tempreture Convertor",
+            "name":"Temperature Convertor",
             "github": "https://github.com/Chlowus/Temperature-Converter",
             "vercel": "https://temperature-converter-pearl.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/temp-convert-image.png"
         },
         {
             "name":"SWEGGA",
             "github": "https://github.com/Chlowus/Swegga",
             "vercel": "https://swegga-khaki.vercel.app/",
             "description": "I used HTML, CSS and JavaScript to create my calculator",
-            "image": "URL"
+            "image": "https://chlowus.github.io/port-images/swegga-image.png"
         }
     ],
     "education": [
